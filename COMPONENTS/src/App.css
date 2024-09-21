@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.playersdiv{
+  background-color: aqua;
+  border: 5px solid orange;
+  width: 300px;
+  display: inline-block;
+  margin: 2px;
+}
+img{
+  width: 250px;
+}
